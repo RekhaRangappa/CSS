@@ -1,0 +1,3 @@
+
+https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
+https://yoksel.github.io/flex-cheatsheet/
